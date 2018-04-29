@@ -1,5 +1,5 @@
 # Kaggle-problems-Solution
-Kaggle problems Solution
 
 
-My Solution of Kaggle problems
+
+This is my solutions for Kaggle competitions
