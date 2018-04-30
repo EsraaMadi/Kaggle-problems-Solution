@@ -809,7 +809,7 @@ pred1 = pd.DataFrame({'Id': test_ID, 'SalePrice': np.exp(y_pred_Ridge)})
 pred1.to_csv('HousePrices_7_1.csv', header=True, index=False)
 
 
-# 5 - Ensembling AAN, XGBoost and Lasso
+# 5 - Ensembling Ridge, XGBoost , LightGBM and Lasso
 #================================================
 #Ensemble prediction:
 ensemble=pd.DataFrame()
